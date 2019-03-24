@@ -1,5 +1,5 @@
 # TOOLSMRS
-300+ TOOLS IN 1
+PAKE YANG BIJAK GAEES 
 SEMUA TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS INI
 
 
@@ -8,10 +8,10 @@ $pkg install python python2 vim figlet curl
 $pkg install php
 $pip2 install lolcat
 $pkg install git
-$git clone https://github.com/MRSishuman/MRS
+$git clone https://github.com/MRSishuman/Tools.sh
 
 ```MENJALANKANNYA```
-$cd MRS
-$chmod +x MRS.sh
-$sh MRS.sh
-MRS
+$cd Tools
+$chmod +x Tools.sh
+$sh Tools.sh
+
