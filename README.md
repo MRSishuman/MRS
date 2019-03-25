@@ -8,7 +8,7 @@ $pkg install python python2 vim figlet curl
 $pkg install php
 $pip2 install lolcat
 $pkg install git
-$git clone https://github.com/MRSishuman/mrs.sh
+$git clone https://github.com/MRSishuman/mrs
 
 ```MENJALANKANNYA```
 $cd MRS
