@@ -8,10 +8,10 @@ $pkg install python python2 vim figlet curl
 $pkg install php
 $pip2 install lolcat
 $pkg install git
-$git clone https://github.com/MRSishuman/Tools.sh
+$git clone https://github.com/MRSishuman/Morris.sh
 
 ```MENJALANKANNYA```
-$cd Tools
-$chmod +x Tools.sh
-$sh Tools.sh
+$cd Morris
+$chmod +x Morris.sh
+$sh Morris.sh
 
