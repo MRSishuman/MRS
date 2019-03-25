@@ -12,6 +12,6 @@ $git clone https://github.com/MRSishuman/mrs
 
 ```MENJALANKANNYA```
 $cd MRS
-$chmod +x MRS.sh
+$chmod +x Morris.sh
 $sh Morris.sh
 
