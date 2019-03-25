@@ -27,17 +27,17 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet TUAN B4DUT  | lolcat
+figlet M O R R I Z  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : TOOLS INSTALLER $green " |lolcat
 echo -b "VERSION   : V.3 " | lolcat
 echo -b "TOTALS    : 311 TOOLS " | lolcat
-echo -b "AUTHOR    : MRS is Human $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN TERMUX $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN TERMUX TUTORIAL $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN DARK TERMUX ASSOCIATE $green " |lolcat
-echo -b "NOTES     : JELAJAHI SETIAP TOOLS DENGAN BIJAK " | lolcat
+echo -b "COPYPASTE : MRS is Human $green " |lolcat
+echo -b "ASSOCIATE : NewBie Termux $green " |lolcat
+echo -b "BACA      : PAKE TOOLS YG BENER TOD $green " |lolcat
+echo -b "BACA      : KAMI TIDAK BERTANGGUNG JAWAB $green " |lolcat
+echo -b "BACA      : JELAJAHI SETIAP TOOLS DENGAN BIJAK " | lolcat
 echo -b "_____________________________________________________________" | lolcat
 
 sleep 1
@@ -2985,11 +2985,11 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
 
-00) echo "AUTHOR: MRS" | lolcat
+00) echo "AUTHOR: MORRIZ" | lolcat
 echo "MRS ON YOUR SYSTEM" | lolcat
 echo "INDONESIAN TERMUX " | lolcat
 echo "SEMUA TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA" | lolcat
-figlet MRS | lolcat
+figlet MORRIZ | lolcat
 exit
 ;;
 
