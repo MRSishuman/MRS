@@ -54,7 +54,7 @@ sleep 1
 echo -b $green"[#]> MRS On Your System" |lolcat
 
 echo -b $green"[#]> See you Again  :)..." |lolcat
-figlet MRS | lolcat
+figlet MORRIZ | lolcat
 sleep 1
 exit
 }
