@@ -54,7 +54,7 @@ sleep 1
 echo -b $green"[#]> MRS On Your System" |lolcat
 
 echo -b $green"[#]> See you Again  :)..." |lolcat
-figlet MORRIZ | lolcat
+figlet MRS | lolcat
 sleep 1
 exit
 }
@@ -2989,7 +2989,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 echo "MRS ON YOUR SYSTEM" | lolcat
 echo "INDONESIAN TERMUX " | lolcat
 echo "SEMUA TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA" | lolcat
-figlet MORRIZ | lolcat
+figlet MRS | lolcat
 exit
 ;;
 
